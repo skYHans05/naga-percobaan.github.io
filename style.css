@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(skYHans05.github.io/bg.jpg);
+  background-image: url('skYHans05.github.io/bg.jpg');
   background-position: cover;
 }
 .container {
